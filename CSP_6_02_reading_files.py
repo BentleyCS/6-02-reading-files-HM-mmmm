@@ -9,7 +9,7 @@ def toString(fileName):
         out += line
     return out
 
-print(toString("ExampleText.txt"))
+#print(toString("ExampleText.txt"))
 
 
 def longestLine(fileName):
